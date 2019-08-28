@@ -1,0 +1,3 @@
+[submodule "puppetlink-frontend"]
+	path = puppetlink-frontend
+	url = https://github.com/MateusPaixao/puppetlink-frontend.git
